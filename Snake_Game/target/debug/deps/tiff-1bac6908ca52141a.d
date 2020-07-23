@@ -1,0 +1,13 @@
+/Users/pierre/Documents/Projets/RUST/defis30Jours/Snake_Game/target/debug/deps/tiff-1bac6908ca52141a.rmeta: /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/lib.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/mod.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/ifd.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/stream.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/mod.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/colortype.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/writer.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/error.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/tags.rs
+
+/Users/pierre/Documents/Projets/RUST/defis30Jours/Snake_Game/target/debug/deps/tiff-1bac6908ca52141a.d: /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/lib.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/mod.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/ifd.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/stream.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/mod.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/colortype.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/writer.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/error.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/tags.rs
+
+/Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/lib.rs:
+/Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/mod.rs:
+/Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/ifd.rs:
+/Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/stream.rs:
+/Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/mod.rs:
+/Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/colortype.rs:
+/Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/writer.rs:
+/Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/error.rs:
+/Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/tags.rs:

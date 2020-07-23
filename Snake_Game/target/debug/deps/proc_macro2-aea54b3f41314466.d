@@ -1,0 +1,11 @@
+/Users/pierre/Documents/Projets/RUST/defis30Jours/Snake_Game/target/debug/deps/proc_macro2-aea54b3f41314466.rmeta: /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/lib.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/parse.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/detection.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/fallback.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/wrapper.rs
+
+/Users/pierre/Documents/Projets/RUST/defis30Jours/Snake_Game/target/debug/deps/libproc_macro2-aea54b3f41314466.rlib: /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/lib.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/parse.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/detection.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/fallback.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/wrapper.rs
+
+/Users/pierre/Documents/Projets/RUST/defis30Jours/Snake_Game/target/debug/deps/proc_macro2-aea54b3f41314466.d: /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/lib.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/parse.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/detection.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/fallback.rs /Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/wrapper.rs
+
+/Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/lib.rs:
+/Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/parse.rs:
+/Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/detection.rs:
+/Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/fallback.rs:
+/Users/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/wrapper.rs:
