@@ -7,13 +7,12 @@ pub fn to_coord (game_cord: i32) -> f64 {
     (game_cord as f64) * BLOCK_SIZE
 }
 
-pub fn draw_block (
-    color: Color,
-    x: i32,
-    y: i32,
-    con: &Context,
-    g: &mut G2d
-) {
+pub fn draw_block ( color: Color,
+                    x: i32,
+                    y: i32,
+                    con: &Context,
+                    g: &mut G2d )
+    {
 
     let gui_x = to_coord(x);
     let gui_y = to_coord(y);
@@ -28,15 +27,14 @@ pub fn draw_block (
 
 }
 
-pub fn draw_rectangle (
-    color: Color,
-    x: i32,
-    y: i32,
-    width: i32,
-    height: i32,
-    con: &Context,
-    g: &mut G2d
-) {
+pub fn draw_rectangle ( color: Color,
+                        x: i32,
+                        y: i32,
+                        width: i32,
+                        height: i32,
+                        con: &Context,
+                        g: &mut G2d ) 
+    {
 
     let gui_x = to_coord(x);
     let gui_y = to_coord(y);
