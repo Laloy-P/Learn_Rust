@@ -7,6 +7,10 @@ pub fn to_coord (game_cord: i32) -> f64 {
     (game_cord as f64) * BLOCK_SIZE
 }
 
+pub fn to_coord_u32 (game_cord: i32) -> u32 {
+    to_coord(game_cord) as u32 
+}
+
 pub fn draw_block ( color: Color,
                     x: i32,
                     y: i32,

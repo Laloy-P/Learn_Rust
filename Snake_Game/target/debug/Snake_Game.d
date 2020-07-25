@@ -1,1 +1,1 @@
-/Users/pierre/Documents/Projets/RUST/defis30Jours/Snake_Game/target/debug/Snake_Game: /Users/pierre/Documents/Projets/RUST/defis30Jours/Snake_Game/src/main.rs
+/Users/pierre/Documents/Projets/RUST/defis30Jours/Snake_Game/target/debug/Snake_Game: /Users/pierre/Documents/Projets/RUST/defis30Jours/Snake_Game/src/draw.rs /Users/pierre/Documents/Projets/RUST/defis30Jours/Snake_Game/src/game.rs /Users/pierre/Documents/Projets/RUST/defis30Jours/Snake_Game/src/main.rs /Users/pierre/Documents/Projets/RUST/defis30Jours/Snake_Game/src/snake.rs
